@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tryporen.github.io/sitemap.html.gz
+Sitemap: https://tryporen.github.io/app/sitemap.html.gz
+Sitemap: https://tryporen.github.io/assets/sitemap.html.gz
+Sitemap: https://tryporen.github.io/css/sitemap.html.gz
+Sitemap: https://tryporen.github.io/includes/sitemap.html.gz
+Sitemap: https://tryporen.github.io/item/sitemap.html.gz
+Sitemap: https://tryporen.github.io/src/sitemap.html.gz
